@@ -32,3 +32,58 @@ Na tabela a seguir, as do Registro MaxLargeFileSize e WarnLargeFileSize se refer
     <img src="/outlook-tabela.png" width="724" height="324">
 </p>
 
+<p align="center">
+    <img src="/outlook-tabela2.png" width="724" height="324">
+</p>
+
+# Versão do Office
+
+# 1. Outlook 2013
+
+# O local da diretiva para entradas do registro está localizado no seguinte caminho no Editor do Registro
+
+HKEY_CURRENT_USER\Software\Policies\Microsoft\Office\15.0\Outlook\PST
+
+# O local de preferência do usuário para entradas do registro está localizado no seguinte caminho no Editor do Registro
+
+HKEY_CURRENT_USER\Software\Microsoft\Office\15.0\Outlook\PST
+
+# 2. Outlook 2010
+
+# O local da diretiva para entradas do registro está localizado no seguinte caminho no Editor do Registro
+
+HKEY_CURRENT_USER\Software\Policies\Microsoft\Office\14.0\Outlook\PST
+
+# O local de preferência do usuário para entradas do registro está localizado no seguinte caminho no Editor do Registro
+
+HKEY_CURRENT_USER\Software\Microsoft\Office\14.0\Outlook\PST
+
+# 3. Outlook 2007
+
+# O local da diretiva para entradas do registro está localizado no seguinte caminho no Editor do Registro
+
+HKEY_CURRENT_USER\Software\Policies\Microsoft\Office\12.0\Outlook\PST
+
+# O local de preferência do usuário para entradas do registro está localizado no seguinte caminho no Editor do Registro
+
+HKEY_CURRENT_USER\Software\Microsoft\Office\12.0\Outlook\PST
+
+# 4. Outlook 2003
+
+# O local da diretiva para entradas do registro está localizado no seguinte caminho no Editor do Registro
+
+HKEY_CURRENT_USER\Software\Policies\Microsoft\Office\11.0\Outlook\PST
+
+# O local de preferência do usuário para entradas do registro está localizado no seguinte caminho no Editor do Registro
+
+HKEY_CURRENT_USER\Software\Microsoft\Office\11.0\Outlook\PST
+
+# 5. Outlook 2016
+
+# O local da diretiva para entradas do registro está localizado no seguinte caminho no Editor do Registro
+
+HKEY_CURRENT_USER\Software\Policies\Microsoft\Office\16.0\Outlook\PST
+
+# O local de preferência do usuário para entradas do registro está localizado no seguinte caminho no Editor do Registro
+
+HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Outlook\PST
