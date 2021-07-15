@@ -29,6 +29,6 @@ A entrada do Registro WarnLargeFileSize determina o número máximo de dados que
 Na tabela a seguir, as do Registro MaxLargeFileSize e WarnLargeFileSize se referem a um arquivo formatado em UNICODE (novo formato Large), enquanto as entradas do Registro MaxFileSize e WarnFileSize se referem a um arquivo formatado em ANSI (um formato anterior do Microsoft Outlook). Os valores UNICODE são definidos em incrementos de MB, enquanto os valores ANSI são definidos em incrementos de byte.
 
 <p align="center">
-    <img src="/microsoft-outlook/tabela-outlook.png" width="724" height="324">
+    <img src="/microsoft-outlook/outlook-tabela.png" width="724" height="324">
 </p>
 
