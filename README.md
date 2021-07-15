@@ -1,5 +1,22 @@
 # microsoft-outlook
 
+fonte: https://docs.microsoft.com/pt-br/outlook/troubleshoot/data-files/file-size-limits-of-pst-and-ost-files-are-larger
+
+# Os limites de tamanho de arquivo de arquivos .pst e .ost são maiores no Outlook 2010 e no Outlook 2013
+09/04/2021
+
+Aplica-se a:
+Outlook 2013, Microsoft Outlook 2010
+Número KB original:   982577
+
+# Introdução
+
+Por padrão, pastas pessoais (.pst) e arquivos do Arquivo de Dados do Outlook offline (.ost) estão no formato Unicode no Microsoft Outlook 2010 e no Outlook 2013. O tamanho geral dos arquivos .pst e .ost tem um limite pré-configurado de 50 GB. Esse limite é maior do que o limite para arquivos .pst e .ost Unicode no Outlook 2007 e no Outlook 2003.
+
+ # Observação
+
+O novo limite de tamanho de arquivo do Outlook de 50 GB pode ser aumentado ou reduzido fazendo alterações no Registro do Windows. Para obter mais informações, consulte Como configurar o limite de tamanho para arquivos (.pst) e (.ost) no Outlook.
+
 fonte: https://support.microsoft.com/pt-br/topic/como-configurar-o-limite-de-tamanho-para-arquivos-pst-e-ost-no-outlook-2f13f558-d40e-9c2a-e3b6-02806fa535f4
 
 # Como configurar o limite de tamanho para arquivos (.pst) e (.ost) no Outlook
